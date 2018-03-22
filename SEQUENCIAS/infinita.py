@@ -3,10 +3,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 #Num = é o numero de pontos que irá formar no gráfico
-x = np.linspace(5,30,num=10, endpoint=True)
+x = np.linspace(1,5,num=10, endpoint=True)
 
 #Divisao (1/n)
-y = [t+3 for t in x]
+y = [2*(t**2) for t in x]
 
 plt.plot(x, y, 'ro')
 
@@ -17,7 +17,7 @@ plt.xlabel('ne'r'$\mathbb{N}$')
 plt.ylabel(r'$\mathbb{R}$')
 
 #Titulo
-plt.title('Seq Divergente. -> ' r'$\lim_{n\to\infty} {n+3=+/-\infty} $')
+plt.title('Seq infinita. -> 2^2-1')
 
 plt.axis((min(x)-min(x), max(x)+min(x), min(y) - min(y), max(y)+min(y)))
 
