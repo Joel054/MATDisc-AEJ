@@ -5,7 +5,7 @@ import numpy as np
 #Num = é o numero de pontos que irá formar no gráfico
 x = np.linspace(5,30,num=10, endpoint=True)
 
-#Divisao (1/n)
+#Divisao (t+3)
 y = [t+3 for t in x]
 
 plt.plot(x, y, 'ro')
