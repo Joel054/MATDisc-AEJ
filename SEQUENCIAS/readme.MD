@@ -6,3 +6,5 @@
 ![Alt Text](https://github.com/Joel054/MATDisc-AEJ/raw/master/SEQUENCIAS/images/infinita.png)
 ![Alt Text](https://github.com/Joel054/MATDisc-AEJ/raw/master/SEQUENCIAS/images/limitada_superiormente.png)
 ![Alt Text](https://github.com/Joel054/MATDisc-AEJ/raw/master/SEQUENCIAS/images/oscilatoria.png)
+![Alt Text](https://github.com/Joel054/MATDisc-AEJ/raw/master/SEQUENCIAS/images/limitada_inferiormente.jpg)
+![Alt Text](https://github.com/Joel054/MATDisc-AEJ/raw/master/SEQUENCIAS/images/limitada_superiormente.png)
