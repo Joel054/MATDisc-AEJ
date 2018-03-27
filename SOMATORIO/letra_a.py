@@ -33,8 +33,6 @@ def somatorio(n):
     #print (soma)
     return tempo
 
-print ("Tempo de Execução:", somatorio(10))
-
 
 base = 10
 i = 1
@@ -42,7 +40,7 @@ n = 0
 for j in range(i, 6):    
     n = base**i
     print ("\n Limite: ",n)
-    print ("Tempo de Execução:", somatorio(n))
+    print ("Tempo de Execução:", somatorio(n), " segundos")
     i += 1
     
 
