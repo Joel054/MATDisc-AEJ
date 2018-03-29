@@ -4,7 +4,7 @@ import numpy as np
 import time
 
 
-# Somatorio k=1 até n na geradora 1/(n+k)
+# Somatorio k=1 até n na geradora 1/k)
 
 
 
@@ -30,7 +30,7 @@ def somatorio(n):
     print(fim)
     tempo = fim - ini
     #print(tempo)
-    #print (soma)
+    print (soma)
     return tempo
 
 
